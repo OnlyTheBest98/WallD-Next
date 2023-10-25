@@ -3,10 +3,10 @@
 This projects aims to provide a wallpaper service similar to Wallclaimer.
 
 We want you to be able to send any images privately without the server
-owner to know the content only the receiving end can decrypt the images.
+owner to know the content. Only the receiving end can decrypt the images.
 
 For that goal we publish the source code for the frontend and backend
-so you don't need to trust us and can verify yourself.
+so you don't need to trust us and can verify it yourself.
 
 
 ## Implementation
