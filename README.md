@@ -30,3 +30,13 @@ to the server as well.
 ## Installation
 
 TODO: there will be an Android App and maybe a Desktop App
+
+### Server
+
+Install the Rust toolchain and compile the server application:
+
+```bash
+cargo build --release
+```
+
+The output can be found in: `target/release/server`
